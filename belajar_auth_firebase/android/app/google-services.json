@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "641842615426",
+    "project_id": "belajar-auth-firebase-12345",
+    "storage_bucket": "belajar-auth-firebase-12345.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641842615426:android:3ce4800445e7f14cdd509b",
+        "android_client_info": {
+          "package_name": "com.example.belajar_auth_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhKBYOpmymQxjgEO1Qnvz6I39lXZd8h1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
